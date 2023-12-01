@@ -1,0 +1,17 @@
+{
+    "name": "admin/sandbox.zungvi.com",
+    "autoload": {
+        "psr-4": {
+            "sandbox\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fabrice Kulhe",
+            "email": "fabricekulhe@gmail.com"
+        }
+    ],
+    "require": {
+        "php-di/php-di": "^7.0"
+    }
+}
